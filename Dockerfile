@@ -1,5 +1,5 @@
-#FROM alpine:3.7
-FROM quay.io/official-images/alpine:3.15 
+FROM alpine:3.19
+#FROM quay.io/official-images/alpine:3.15 
 MAINTAINER Adrian Dvergsdal [atmoz.net]
 
 # Steps done in one RUN layer:
